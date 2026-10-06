@@ -24,7 +24,7 @@ cd Santander-Developer-Test-API
 dotnet restore
 dotnet run --project Santander-Developer-Test-API
 
-Or open `Santander-Developer-Test-API.sln` in Visual Studio and press F5.
+Or open `Santander-Developer-Test-API.sln` in Visual Studio then Rebuild the solution and press F5.
 
 ### 3. Access Swagger
 Once running, open:
